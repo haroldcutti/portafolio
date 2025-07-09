@@ -35,11 +35,12 @@ Sistema web simple en PHP con login y CRUD sobre base de datos MySQL.
 
 ## 🛠️ Tecnologías que utilizo
 
-- **Frontend:** Angular, HTML, CSS, Tailwind, JavaScript, TypeScript
-- **Backend:** Django, PHP, Node.js
+- **Frontend web:** Angular, HTML, CSS, Tailwind, JavaScript, TypeScript
+- **Frontend móvil:** Flutter, Dart, Android SDK
+- **Backend:** Django, Python, PHP, Node.js
 - **Bases de Datos:** MySQL, SQLite, Firebase
 - **DevOps:** GitHub, Docker, Jenkins
-- **Otras herramientas:** Figma, Postman, Visual Studio Code, Scrum
+- **Herramientas y otros:** Figma, Postman, Visual Studio Code, Scrum, Git
 
 ---
 
