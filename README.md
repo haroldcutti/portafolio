@@ -1,8 +1,8 @@
 # 💼 Portafolio de Harold Cutti
 
-¡Hola! Soy Harold Cutti, egresado de la carrera de Diseño y Desarrollo de Software en Tecsup. Me apasiona crear soluciones tecnológicas eficientes y bien estructuradas, tanto en frontend como en backend, aplicando buenas prácticas de desarrollo y metodologías ágiles.
+¡Hola! Soy Harold Cutti, egresado de la carrera de Diseño y Desarrollo de Software en TECSUP. Me apasiona construir soluciones tecnológicas funcionales y escalables, tanto en frontend como en backend, aplicando buenas prácticas de desarrollo y metodologías ágiles como Scrum.
 
-Este portafolio reúne algunos de los proyectos más representativos que he desarrollado durante mi formación y en proyectos finales.
+Este portafolio reúne algunos de los proyectos más representativos en los que he trabajado durante mi formación, prácticas profesionales y proyectos personales.
 
 ---
 
@@ -52,4 +52,4 @@ Sistema web simple en PHP con login y CRUD sobre base de datos MySQL.
 
 ---
 
-Gracias por revisar mi portafolio 😊
+Gracias por revisar mi portafolio. Estoy abierto a nuevas oportunidades donde pueda aportar y seguir aprendiendo. 😊
