@@ -8,32 +8,26 @@ Este portafolio reúne algunos de los proyectos más representativos que he desa
 
 ## 🚀 Proyectos Destacados
 
+### 📲 [Tesis - Completa](https://github.com/haroldcutti/Tesis---completa)
+Proyecto completo de tesis desarrollado para la gestión de reportes de incidentes en el campus Tecsup. Contiene tanto el **frontend en Angular** como el **backend en Django REST Framework**, además de funcionalidades como:
+- Registro y autenticación de usuarios
+- Reporte de incidentes con imagen y geolocalización
+- Subida de imágenes a Cloudinary
+- Integración de mapas y visualización de reportes
+
+> 🛠 Tecnologías: Angular, Tailwind, Firebase, Python, Django REST, SQLite, JWT, Cloudinary
+
+---
+
 ### 🌿 [Demo-Proveedor](https://github.com/haroldcutti/Demo-Proveedor)
-Aplicación desarrollada con **Angular + Tailwind** para gestionar proveedores del sector agrícola. Cuenta con:
-- Interfaces limpias y adaptables
-- Conexión a backend mediante API REST
-- Dockerfile y Jenkinsfile para despliegue automatizado
+Aplicación Angular para la gestión de proveedores. Incluye interfaz moderna, consumo de API y preparación para despliegue con Docker y Jenkins.
 
-> 🛠 Tecnologías: Angular, TypeScript, Tailwind, Node.js, Docker, Jenkins
-
----
-
-### 📱 [Tesis-Front](https://github.com/haroldcutti/Tesis-Front)
-Frontend de una aplicación móvil y web para reportar incidentes en tiempo real en el campus Tecsup. Proyecto de tesis desarrollado en equipo, enfocado en geolocalización, gestión de reportes e interacción con usuarios.
-
-> 🛠 Tecnologías: Angular, Firebase, Tailwind, Geolocalización
-
----
-
-### 🧠 [Tesis-Back](https://github.com/haroldcutti/Tesis-Back)
-Backend de la aplicación de reportes de incidentes. Incluye autenticación JWT, subida de imágenes y manejo de datos con Django REST Framework.
-
-> 🛠 Tecnologías: Python, Django REST Framework, SQLite, JWT, Cloudinary
+> 🛠 Tecnologías: Angular, TypeScript, Tailwind, Docker, Jenkins
 
 ---
 
 ### 🧪 [Evaluacion2](https://github.com/haroldcutti/Evaluacion2)
-Sistema en PHP con operaciones CRUD y validación de usuarios conectado a base de datos MySQL. Parte de una evaluación técnica.
+Sistema web simple en PHP con login y CRUD sobre base de datos MySQL.
 
 > 🛠 Tecnologías: PHP, MySQL, HTML, CSS
 
@@ -42,7 +36,7 @@ Sistema en PHP con operaciones CRUD y validación de usuarios conectado a base d
 ## 🛠️ Tecnologías que utilizo
 
 - **Frontend:** Angular, HTML, CSS, Tailwind, JavaScript, TypeScript
-- **Backend:** PHP, Django, Node.js
+- **Backend:** Django, PHP, Node.js
 - **Bases de Datos:** MySQL, SQLite, Firebase
 - **DevOps:** GitHub, Docker, Jenkins
 - **Otras herramientas:** Figma, Postman, Visual Studio Code, Scrum
@@ -51,8 +45,9 @@ Sistema en PHP con operaciones CRUD y validación de usuarios conectado a base d
 
 ## 📫 Contacto
 
-- 📧 Correo: haroldcutti@example.com  
+- 📧 Correo: haroldjosepcutti@gmail.com
 - 💻 GitHub: [github.com/haroldcutti](https://github.com/haroldcutti)
+- 📱 WhatsApp: [+51 952 131 684](https://wa.me/51952131684)  
 
 ---
 
