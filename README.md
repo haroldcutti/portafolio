@@ -39,11 +39,6 @@ Sistema en PHP con operaciones CRUD y validación de usuarios conectado a base d
 
 ---
 
-### 📚 [lab-4C24-HaroldCS-Project](https://github.com/haroldcutti/lab-4C24-HaroldCS-Project)
-Proyecto académico centrado en operaciones básicas y avanzadas con base de datos relacional.
-
----
-
 ## 🛠️ Tecnologías que utilizo
 
 - **Frontend:** Angular, HTML, CSS, Tailwind, JavaScript, TypeScript
